@@ -22,4 +22,4 @@ cover:
     payload_on: "ON"
     close_to_open_time: 22
 
-`''
+`
