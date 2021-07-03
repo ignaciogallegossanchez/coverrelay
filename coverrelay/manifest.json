@@ -1,0 +1,10 @@
+{
+  "domain": "coverrelay",
+  "name": "CoverRelay",
+  "version": "1.1.0",
+  "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/example_sensor/",
+  "dependencies": [],
+  "after_dependencies": ["mqtt"],
+  "codeowners": [],
+  "requirements": []
+}
